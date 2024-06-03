@@ -23,8 +23,6 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
 - 📚 Pursuing B.Tech in Computer Science Engineering at Parul University.
 - 🌱 I’m currently learning **MERN**.
 - 🌐 Interested in web development, frontend and pyhon programming.
